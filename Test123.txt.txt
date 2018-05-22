@@ -1,3 +1,5 @@
 testing testing hello world. 
 
-Adding another commit from Notepad to create intentional merge conflict. 
+Adding a commit from the online text editor. 
+Adding another commit from Notepad to create intentional merge conflict.
+Cleaning up conflicting lines in notepad and fixing merge conflict. 
